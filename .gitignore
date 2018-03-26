@@ -1,0 +1,9 @@
+*__pycache__
+models
+classify_frames
+detect
+detect_table
+recognize_sequences
+segment_lines
+x-server-log
+*.png
